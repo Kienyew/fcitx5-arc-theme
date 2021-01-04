@@ -9,3 +9,7 @@ A fcitx5 theme imitates the famous arc theme
 
 #### Arc
 ![Arc skin](https://i.imgur.com/ExnWycC.png)
+
+## Install
+1. Install from [AUR package](https://aur.archlinux.org/packages/fcitx5-skin-arc/) 
+2. Install manually
